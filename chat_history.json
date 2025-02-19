@@ -1,0 +1,18 @@
+[
+    {
+        "role": "user",
+        "content": "Das equa\u00e7\u00f5es quadr\u00e1ticas abaixo e sabendo que a = 1, qual \u00e9 a equa\u00e7\u00e3o que possui as solu\u00e7\u00f5es x1 = 2 e x2 = - 3?"
+    },
+    {
+        "role": "assistant",
+        "content": "A equa\u00e7\u00e3o quadr\u00e1tica que possui as solu\u00e7\u00f5es $x_1 = 2$ e $x_2 = -3$ \u00e9 $x^2 + x - 6 = 0$."
+    },
+    {
+        "role": "user",
+        "content": "N\u00e3o entendi direito "
+    },
+    {
+        "role": "assistant",
+        "content": "A equa\u00e7\u00e3o quadr\u00e1tica correta com as solu\u00e7\u00f5es fornecidas \u00e9 $x^2 + x - 6 = 0$, onde $a = 1$. Verificamos passo a passo que as ra\u00edzes coincidem com as fornecidas."
+    }
+]

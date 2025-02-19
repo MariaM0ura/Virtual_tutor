@@ -1,0 +1,15 @@
+name: virutal_tutor
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - pip
+  - python-dotenv
+  - pydantic
+  - pip:
+      - streamlit
+      - python-dotenv
+      - openai
