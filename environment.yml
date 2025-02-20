@@ -1,4 +1,4 @@
-name: virutal_tutor
+name: virtual_tutor
 channels:
   - conda-forge
   - defaults
